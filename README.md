@@ -1,1 +1,1 @@
-# Buggy-Beginner-UNO
+A beginner UNO project I made for school. Lambda, Functools not allowed, or anything beyond basic python and tkinter, Lot of bugs and by no means is anything near a finished project.  code is very repetitive and can error a lot. All in all, just a fun way to test tkinter and some basic knowledge of logic!
